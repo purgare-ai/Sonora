@@ -1,3 +1,4 @@
+![Sonora Logo](banner.png)
 # Sonora: Emotionally Intelligent Music Discovery
 
 **Sonora** is an open-source, crowd-tagged music discovery platform that reimagines how we find music—not by genre or popularity, but by emotional resonance, musical traits, and listener experience.
