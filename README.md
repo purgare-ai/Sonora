@@ -26,7 +26,7 @@ Sonora blends community-driven tagging, machine learning, and audio feature anal
 
 ## How to Contribute
 
-We welcome developers, musicians, data scientists, designers, and curious listeners. Please see `CONTRIBUTING.md` for more details.
+We welcome developers, musicians, data scientists, designers, and curious listeners. Please see `CONTRIBUTING` for more details.
 
 ## License
 
