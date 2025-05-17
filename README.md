@@ -38,7 +38,7 @@ We’re looking for collaborators who care more about music than metrics:
 - 🎨 **Designers & writers** to help communicate the project with clarity and beauty.
 - 🎼 **Artists & musicians** who want to help shape a new discovery model.
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details.
+See [`CONTRIBUTING`](CONTRIBUTING.md) for details.
 
 ---
 
@@ -58,10 +58,12 @@ Sonora is licensed under the **GNU Affero General Public License v3.0**. This me
 - If you host it publicly, you must share your changes
 - Commercial exploitation without contribution is prohibited
 
+See [`LICENSE`](LICENSE.md) for details.
+
 ---
 
 ## ✉️ Want to Join or Ask a Question?
 
-Open an issue or start a discussion here in the repo. Or email [your address here—feel free to use your Apple Hide My Email alias].
+Open an issue or start a discussion here in the repo. Or email [putouts-specs8n@icloud.com].
 
 Let’s build something real—and let it sing.
